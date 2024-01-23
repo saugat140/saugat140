@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about machine learning concepts
+- 📫 How to reach me: saugat.neu140@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Alongside the programming languages I know I am also fluent in 3 different languages spoken languages.  
+
 <!--
 **saugat140/saugat140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
