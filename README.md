@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about machine learning concepts
+- 🌱 I’m currently learning about machine learning concepts and Mobile Development
 - 📫 How to reach me: saugat.neu140@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Alongside the programming languages I know I am also fluent in 3 different spoken languages.  
